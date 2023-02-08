@@ -6,6 +6,8 @@ We will work with Web Scraping, Data Combination, Data Formatting, and then Data
 
 MyAnimeList, often abbreviated as MAL, is an anime and manga social networking and social cataloging application website run by volunteers. The site provides its users with a list-like system to organize and score anime and manga.
 
+Note: At the time of viewing this, I may still be in the process of developing the content and updating this repository. As a result, you may encounter "under development" parts.
+
 <p align="center"> <a href="https://myanimelist.net/"/> <img src="https://loucosporgeek.com.br/wp-content/uploads/2021/02/MyAnimeList-Logo.jpg" alt="MAL" width="50%" height="10%"/> </a> </p>
 
 We need to extract the data from the site to answer this 10 questions:
@@ -26,7 +28,7 @@ We need to extract the data from the site to answer this 10 questions:
 - Python 
 - Basic Statistics
 
-#### Python Libraries used
+#### Python Libraries that will be used
 
 - Requests
 - BeautifulSoup
@@ -42,73 +44,43 @@ https://myanimelist.net/
 
 #### 01. What are the average score of animes?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 02. What anime has the highest number of votes?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 03. What are the different types of animes?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 04. What is the average score of anime by types?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 05. What are the different anime fonts styles?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 06. How many animes are available in Portuguese?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 07. How many animes have co-producers?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 08. Are there any anime without producers?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 09. How many times has each producer participated in anime production?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 #### 10. For the producer with the most participation, what is the average score, popularity and number of members?
 
-```python
->>> print("Hello World!")
-Hello World!
-```
+under development.
 
 
 ## Contact me 🔗 👇 
